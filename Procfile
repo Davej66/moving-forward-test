@@ -1,0 +1,1 @@
+web: gunicorn moving_forward.wsgi:application
